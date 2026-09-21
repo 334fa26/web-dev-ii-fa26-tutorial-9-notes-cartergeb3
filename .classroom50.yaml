@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "web-dev-ii-fa26"
+assignment: "tutorial-9-notes"
+owner:
+  username: "cartergeb3"
+  id: 254720933
+  accepted_at: "2026-09-21T03:03:54Z"
+source:
+  owner: "334fa26"
+  owner_id: 299231041
+  repo: "tutorial9notes"
+  branch: "main"
